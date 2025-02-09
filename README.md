@@ -5,54 +5,51 @@ This project delves into advanced financial analysis and risk assessment methodo
 
 Key Features
 
-Data Ingestion & Cleaning: Automated pipelines to collect, preprocess, and clean financial datasets from multiple sources.
+1. Data Ingestion & Cleaning: Automated pipelines to collect, preprocess, and clean financial datasets from multiple sources.
 
-Exploratory Data Analysis (EDA): In-depth statistical and graphical analysis of key financial metrics.
+2. Exploratory Data Analysis (EDA): In-depth statistical and graphical analysis of key financial metrics.
 
-Financial Ratio Analysis: Computation of critical banking ratios, including Capital Adequacy Ratio (CAR), Non-Performing Assets (NPA), Return on Assets (ROA), and Net Interest Margin (NIM).
+3. Financial Ratio Analysis: Computation of critical banking ratios, including Capital Adequacy Ratio (CAR), Non-Performing Assets (NPA), Return on Assets (ROA), and Net Interest Margin (NIM).
 
-Risk Assessment Model: Implementation of credit risk modeling techniques using logistic regression, decision trees, and deep learning models.
+4. Risk Assessment Model: Implementation of credit risk modeling techniques using logistic regression, decision trees, and deep learning models.
 
-Predictive Modeling: Development of machine learning models for forecasting bank performance based on historical financial data.
+5. Predictive Modeling: Development of machine learning models for forecasting bank performance based on historical financial data.
 
-Visualization & Reporting: Interactive dashboards and financial heatmaps for insightful analysis.
+6. Visualization & Reporting: Interactive dashboards and financial heatmaps for insightful analysis.
 
 Technologies Used
 
-Programming Language: Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow)
+1. Programming Language: Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow)
 
-Data Handling: SQL, CSV, JSON
+2. Data Handling: SQL, CSV, JSON
 
-Visualization Tools: Matplotlib, Seaborn, Plotly, Dash
+3. Visualization Tools: Matplotlib, Seaborn, Plotly, Dash
 
-Machine Learning Models: Logistic Regression, Random Forest, Gradient Boosting, Neural Networks
+4. Machine Learning Models: Logistic Regression, Random Forest, Gradient Boosting, Neural Networks
 
-Deployment: Jupyter Notebook, Flask (if applicable for web integration)
+5. Deployment: Jupyter Notebook, Flask (if applicable for web integration)
 
 Data Sources
 
 The financial data used in this project is sourced from:
 
-Banking sector annual reports
+1. Banking sector annual reports
 
-Open financial databases (RBI, IMF, World Bank)
+2. Open financial databases (RBI, IMF, World Bank)
 
-Kaggle and other financial data repositories
+3. Kaggle and other financial data repositories
 
 Results & Findings
 
-Identification of key financial indicators affecting banking stability.
-
-Credit risk segmentation to classify banks based on financial health.
-
-Predictive insights into banking performance trends.
-
-Data-driven approach to improving risk mitigation strategies.
+1. Identification of key financial indicators affecting banking stability.
+2. Credit risk segmentation to classify banks based on financial health.
+3. Predictive insights into banking performance trends.
+4. Data-driven approach to improving risk mitigation strategies.
 
 Future Scope
 
-Integration with real-time financial APIs for dynamic analysis.
+1. Integration with real-time financial APIs for dynamic analysis.
 
-Advanced deep learning models for risk assessment.
+2. Advanced deep learning models for risk assessment.
 
-Expansion to global banking data for cross-country financial comparisons.
+3. Expansion to global banking data for cross-country financial comparisons.
